@@ -1,0 +1,37 @@
+/* .impMessage{
+    color: blue;
+} */
+
+.item-container{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    width: 700px;
+    justify-content: space-between;
+}
+
+.item1
+{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    padding: 20px;
+}
+.item2
+{
+    height: 100px;
+    width: 100px;
+    background-color: blue;;
+    padding: 20px;
+
+}
+.item3
+{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    padding: 20px;
+
+}
+
+
